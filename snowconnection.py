@@ -21,7 +21,5 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.write('This is some text')
-st.write('This is a footer')
 
  
