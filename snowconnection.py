@@ -40,4 +40,5 @@ components.html(
     """,
     height=600,
 )
+st.components.v1.iframe(src, width=None, height=None, scrolling=False)
 components.iframe("https://docs.streamlit.io/en/latest")
